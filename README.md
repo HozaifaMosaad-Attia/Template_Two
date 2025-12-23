@@ -1,19 +1,36 @@
-#Elzero Web School - CSS Design #2
-##Project Description:
-A pixel-perfect web design implemented using only HTML and CSS. This project is part of the "Elzero Web School" assignments to master layout techniques and styling.
+# 🏗️ Web Template Three - Professional UI
+A sophisticated web template focusing on component-based design, advanced CSS positioning, and modern styling.
 
-##Key Features:
+## 🚀 Key Features
+* **Modern Components:** Styled pricing tables, services, and team sections.
+* **Complex Layouts:** Using advanced CSS techniques for a structured look.
+* **Fully Responsive:** Optimized for all screen sizes.
+* **Interactive UI:** Smooth hover effects and polished typography.
 
-    Fully Responsive Design (Mobile, Tablet, Desktop).
+## 📸 Project Showcase
+Here is a full breakdown of the template sections:
 
-    Clean and Semantic HTML5 code.
+### 1️⃣ Header & Welcome Area
+![Top Section](./images/screenshot-1.png)
 
-    CSS Flexbox / Grid for layout management.
+### 2️⃣ Features & Services
+![Services](./images/screenshot-2.png)
 
-    Hover effects and smooth transitions.
+### 3️⃣ Portfolio Gallery
+![Portfolio](./images/screenshot-3.png)
 
-##Technologies Used:
+### 4️⃣ About & Skills Section
+![About](./images/screenshot-4.png)
 
-    HTML5
+### 5️⃣ Pricing & Stats
+![Stats](./images/screenshot-5.png)
 
-    CSS3 (Custom Properties / Variables)
+### 6️⃣ Contact & Footer
+![Footer](./images/screenshot-6.png)
+
+## 🛠️ Tech Stack
+* **HTML5:** Semantic structure.
+* **CSS3:** Advanced styling and layouts.
+
+---
+*Developed as part of the Elzero Web School frontend track.*
